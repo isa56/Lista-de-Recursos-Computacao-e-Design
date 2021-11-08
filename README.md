@@ -16,10 +16,10 @@
 
 ## Sumário:
 * Geral 🤓 🔧
-* [Computação👨🏼‍💻💻](## Computação) 
-* [Design](##Design) 🖋️ 🧩
-* [Engenharia Elétrica ⚙️ ⚡](## Engenharia Elétrica)
-* [Estudos 📚👨🏼‍🎓](## Estudos)
+* [Computação👨🏼‍💻💻](#-Computação) 
+* [Design](#-Design) 🖋️ 🧩
+* [Engenharia Elétrica ⚙️ ⚡](#-Engenharia Elétrica)
+* [Estudos 📚👨🏼‍🎓](#-Estudos)
 
 
 ---
