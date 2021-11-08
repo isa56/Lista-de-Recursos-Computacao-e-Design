@@ -1,45 +1,45 @@
-#Lista de Recursos Computação e Design
+# Lista de Recursos Computação e Design
 
 [Link do Notion original](https://isa56.notion.site/Lista-dos-meus-recursos-de-estudo-favoritos-fd3419edada14c4994065cb10e8f7bd3)
 
 ---
 
-##Autores:
+## Autores:
 * [Isadora Gonçalves Ferreira](https://github.com/isa56);
 
-###Com o apoio de:
+### Com o apoio de:
 * [Danielle Mattos](https://www.linkedin.com/in/danielle-mattos-de-sousa-975672209/);
 * [Evelyn Fernandes](https://github.com/yoruwitch);
 * [Gabriel Frasson](https://www.linkedin.com/in/gabriel-frasson-costa-bb4678212/);
 
 ---
 
-##Sumário:
+## Sumário:
 * Geral 🤓 🔧
-* [Computação👨🏼‍💻💻](##Computação) 
+* [Computação👨🏼‍💻💻](## Computação) 
 * [Design](##Design) 🖋️ 🧩
-* [Engenharia Elétrica ⚙️ ⚡](##Engenharia Elétrica)
-* [Estudos 📚👨🏼‍🎓](##Estudos)
+* [Engenharia Elétrica ⚙️ ⚡](## Engenharia Elétrica)
+* [Estudos 📚👨🏼‍🎓](## Estudos)
 
 
 ---
 
 
-##Computação
+## Computação
 
 
 
 ---
 
 
-##Design
+## Design
 
-###Sumário:
+### Sumário:
 * [Listas de recursos](###Listas de recursos);
 * [Aprender Design](###Aprender design);
 * 
 
-###Listas de recursos:
+### Listas de recursos:
 
 - [UI_Design Subreddit Wiki](https://www.reddit.com/r/UI_Design/wiki/index)
     - [UI Books, Resources and Other Recommendations](https://www.reddit.com/r/UI_Design/wiki/index#wiki_ui_books.2C_resources_.26amp.3B_other_recommendations);
@@ -56,7 +56,7 @@
 
 ---
 
-###Aprender design:
+### Aprender design:
 
 Contribuição: [Danielle Mattos de Sousa](https://www.linkedin.com/in/danielle-mattos-de-sousa-975672209/).
 
@@ -97,7 +97,7 @@ Contribuição: [Danielle Mattos de Sousa](https://www.linkedin.com/in/danielle-
 
 ---
 
-###Cores:
+### Cores:
 
 - [Coolors](https://coolors.co/);
 - [Adobe Colors](https://color.adobe.com/);
@@ -105,14 +105,14 @@ Contribuição: [Danielle Mattos de Sousa](https://www.linkedin.com/in/danielle-
 
 ---
 
-###Fontes:
+### Fontes:
 
 - [Google Fonts](https://fonts.google.com/);
 - [DaFont](https://www.dafont.com/pt/)
 
 ---
 
-###Ícones:
+### Ícones:
 
 - [https://icons.getbootstrap.com/](https://icons.getbootstrap.com/)
 - [https://fontawesome.com/](https://fontawesome.com/)
@@ -129,7 +129,7 @@ Contribuição: [Danielle Mattos de Sousa](https://www.linkedin.com/in/danielle-
 
 ---
 
-###Ilustrações
+### Ilustrações
 
 - [https://storyset.com/](https://storyset.com/)
 - [https://www.glazestock.com/](https://www.glazestock.com/)
@@ -141,20 +141,20 @@ Contribuição: [Danielle Mattos de Sousa](https://www.linkedin.com/in/danielle-
 
 ---
 
-###Imagens:
+### Imagens:
 
 - [Unsplash](https://unsplash.com/)
 - [Pixabay](https://pixabay.com/pt/)
 
 ---
 
-###Jogos:
+### Jogos:
 
 - [Recursos para jogos](https://gist.github.com/EndangeredMassa/6b177f36b08a5b0798cf)
 
 ---
 
-###Slides
+### Slides
 
 - Canva
 - Google Presentations
@@ -163,15 +163,15 @@ Contribuição: [Danielle Mattos de Sousa](https://www.linkedin.com/in/danielle-
 ---
 
 
-###Software:
+### Software:
 
 - [Pixlr](https://pixlr.com/br/);
 - Canva;
 
 
-##Engenharia Elétrica
+## Engenharia Elétrica
 
-###Listas:
+### Listas:
 
 * [Electrical Engeneering SubReddit Wiki Resources](https://www.reddit.com/r/ElectricalEngineering/wiki/index#wiki_resources);
 * [Ask Engineers SubReddit Wiki Resources](https://www.reddit.com/r/AskEngineers/wiki/index#wiki_resources);
@@ -182,19 +182,19 @@ Contribuição: [Danielle Mattos de Sousa](https://www.linkedin.com/in/danielle-
 
 ---
 
-###Fóruns:
+### Fóruns:
 
 - [EEBooks SubReddit](https://www.reddit.com/r/eebooks/)
 
 ---
 
 
-##Estudos em Geral
+## Estudos em Geral
 
-###Sumário:
-* [Ferramentas](###Ferramentas);
+### Sumário:
+* [Ferramentas](### Ferramentas);
 
-###Ferramentas:
+### Ferramentas:
 * Pomodoro ([Pomofocus](https://pomofocus.io/) e [TomatoTimer](https://tomato-timer.com/#));
 * [Notion](https://www.notion.so/);
 * [Google Docs](https://docs.google.com/document/u/0/);
